@@ -25,12 +25,12 @@ It also uses Sequelize ORM with SQLite as the database, along with the JSON Web 
 
 ## Prerequisites
 Before running the application, make sure you have the following installed:
-1. NodeJS (v18)
-2. NPM (v9)
+1. NodeJS (v18+)
+2. NPM (v9+)
 
 ## Installation
 1. Clone the repository: `https://github.com/devops-eela/e-commerce-store-express`
-2. Navigate to the project directory: `cd e-commerce-service`
+2. Navigate to the project directory: `cd e-commerce-store-express`
 3. Install the dependencies: `npm install`
 
 ## Usage
