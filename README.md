@@ -29,7 +29,7 @@ Before running the application, make sure you have the following installed:
 2. NPM (v9)
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/arvindkalra08/e-commerce`
+1. Clone the repository: `https://github.com/devops-eela/e-commerce-store-express`
 2. Navigate to the project directory: `cd e-commerce-service`
 3. Install the dependencies: `npm install`
 
