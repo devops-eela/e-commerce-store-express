@@ -8,9 +8,9 @@ module.exports = {
     description: {
       type: "string",
     },
-    image: {
-      type: "string",
-    },
+    // image: {
+    //   type: "string",
+    // },
     price: {
       type: "number",
     },
