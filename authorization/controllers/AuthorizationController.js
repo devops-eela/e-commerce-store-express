@@ -73,7 +73,7 @@ module.exports = {
         // IF user is not found with the given username
         // THEN Return user not found error
         if (!user) {
-          return res.status(400).json({
+          return res.status(401).json({
             status: false,
             error: {
               message: `Could not find any user with username: \`${username}\`.`,
