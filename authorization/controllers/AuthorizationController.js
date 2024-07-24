@@ -86,7 +86,7 @@ module.exports = {
         // IF Provided password does not match with the one stored in the DB
         // THEN Return password mismatch error
         if (user.password !== encryptedPassword) {
-          return res.status(400).json({
+          return res.status(401).json({
             status: false,
             error: {
               message: `Provided username and password did not match.`,
